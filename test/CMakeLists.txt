@@ -1,0 +1,1 @@
+make_test(base_test smart_pointers_test.cpp)
